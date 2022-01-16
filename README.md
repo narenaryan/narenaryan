@@ -24,3 +24,5 @@ func main() {
 }
 
 ```
+
+[![N3N's GitHub stats](https://github-readme-stats.vercel.app/api?username=narenaryan)](https://github.com/anuraghazra/github-readme-stats)
