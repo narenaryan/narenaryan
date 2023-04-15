@@ -15,7 +15,7 @@ type I struct {
 
 func main() {
 	me := I{
-		am:       "Naren Yellavula",
+		am:       "Naren Arya",
 		love:     []string{"Software", "Books", "Travel"},
 		workWith: []string{"Python 3", "JavaScript ES6", "React", "Go", "AWS"},
 		aspire:   "To make this world a better and safe place with technology",
